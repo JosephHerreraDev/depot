@@ -3,11 +3,17 @@
 one:
   title: MyString
   description: MyText
-  image_url: MyString
+  image_url: lorem.jpg
   price: 9.99
 
 two:
   title: MyString
   description: MyText
-  image_url: MyString
+  image_url: lorem.jpg
   price: 9.99
+
+ruby:
+  title: Programming Ruby 1.9
+  description: A comprehensive guide to programming Ruby
+  price: 19.99
+  image_url: ruby.jpg
